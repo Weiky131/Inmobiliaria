@@ -8,7 +8,9 @@
     "provincia":"Valencia",
     "direccion":"Carrer Major n2",
     "m2":"100",
-    "descripcion":"Pis acabat de reformar en el centre de Gandia."
+    "descripcion":"Pis acabat de reformar en el centre de Gandia.",
+    "imagenes": [ "img_1", "img_2", "img_3" ]
+    
   },
   
   {
@@ -19,7 +21,8 @@
     "provincia":"Alacant",
     "direccion":"Urbanizacio Menor n1",
     "m2":"120",
-    "descripcion":"Casa acabada de construir en la urbanizacio Menor"
+    "descripcion":"Casa acabada de construir en la urbanizacio Menor",
+    "imagenes": [ "img_1", "img_2", "img_3" ]
   },
   
   {
@@ -30,7 +33,8 @@
     "provincia":"Castello",
     "direccion":"Carrer Major n222",
     "m2":"80",
-    "descripcion":"Local ideal per a un bar, pub o un restaurant xicotet"
+    "descripcion":"Local ideal per a un bar, pub o un restaurant xicotet",
+    "imagenes": [ "img_1", "img_2", "img_3" ]
   },
   
   {
@@ -41,7 +45,8 @@
     "provincia":"Valencia",
     "direccion":"Carrer Major n2",
     "m2":"100",
-    "descripcion":"Pis acabat de reformar en el centre de Gandia."
+    "descripcion":"Pis acabat de reformar en el centre de Gandia.",
+    "imagenes": [ "img_1", "img_2", "img_3" ]
   },
   
   {
@@ -52,7 +57,8 @@
     "provincia":"Alacant",
     "direccion":"Urbanizacio Menor n1",
     "m2":"120",
-    "descripcion":"Casa acabada de construir en la urbanizacio Menor"
+    "descripcion":"Casa acabada de construir en la urbanizacio Menor",
+    "imagenes": [ "img_1", "img_2", "img_3" ]
   },
   
   {
@@ -63,7 +69,8 @@
     "provincia":"Castello",
     "direccion":"Carrer Major n222",
     "m2":"80",
-    "descripcion":"Local ideal per a un bar, pub o un restaurant xicotet"
+    "descripcion":"Local ideal per a un bar, pub o un restaurant xicotet",
+    "imagenes": [ "img_1", "img_2", "img_3" ]
   }
 
 ]
