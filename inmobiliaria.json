@@ -28,6 +28,36 @@
     "direccion":"Carrer Major n222",
     "m2":"80",
     "descripcion":"Local ideal per a un bar, pub o un restaurant xicotet"
+  },
+  
+  {
+    "tipo": "Alquiler",
+    "inmueble":"Piso",
+    "precio":"120.000",
+    "localidad":"Gandia",
+    "direccion":"Carrer Major n2",
+    "m2":"100",
+    "descripcion":"Pis acabat de reformar en el centre de Gandia."
+  },
+  
+  {
+    "tipo": "Alquiler",
+    "inmueble":"Casa",
+    "precio":"150.000",
+    "localidad":"Gandia",
+    "direccion":"Urbanizacio Menor n1",
+    "m2":"120",
+    "descripcion":"Casa acabada de construir en la urbanizacio Menor"
+  },
+  
+  {
+    "tipo": "Alquiler",
+    "inmueble":"Local",
+    "precio":"220.000",
+    "localidad":"Gandia",
+    "direccion":"Carrer Major n222",
+    "m2":"80",
+    "descripcion":"Local ideal per a un bar, pub o un restaurant xicotet"
   }
 
 ]
