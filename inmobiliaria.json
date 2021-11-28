@@ -1,10 +1,10 @@
 [
   
   {
-    "id":"inmueble1",
+    "id":"1",
     "tipo": "Venta",
     "inmueble":"Piso",
-    "precio":"120.000",
+    "precio":"120.000€",
     "localidad":"Gandia",
     "provincia":"Valencia",
     "direccion":"Carrer Major n2",
@@ -15,10 +15,10 @@
   },
   
   {
-    "id":"inmueble2",
+    "id":"2",
     "tipo": "Venta",
     "inmueble":"Casa",
-    "precio":"150.000",
+    "precio":"150.000€",
     "localidad":"Sant Vicen de Raspeig",
     "provincia":"Alacant",
     "direccion":"Urbanizacio Menor n1",
@@ -28,10 +28,10 @@
   },
   
   {
-    "id":"inmueble3",
+    "id":"3",
     "tipo": "Venta",
     "inmueble":"Local",
-    "precio":"220.000",
+    "precio":"220.000€",
     "Localidad":"Castello de la Plana",
     "provincia":"Castello",
     "direccion":"Carrer Major n222",
@@ -41,10 +41,10 @@
   },
   
   {
-    "id":"inmueble1",
+    "id":"1",
     "tipo": "Alquiler",
     "inmueble":"Piso",
-    "precio":"120.000",
+    "precio":"500€/m",
     "localidad":"Gandia",
     "provincia":"Valencia",
     "direccion":"Carrer Major n2",
@@ -54,10 +54,10 @@
   },
   
   {
-    "id":"inmueble2",
+    "id":"2",
     "tipo": "Alquiler",
     "inmueble":"Casa",
-    "precio":"150.000",
+    "precio":"700€/m",
     "localidad":"Sant Vicen de Raspeig",
     "provincia":"Alacant",
     "direccion":"Urbanizacio Menor n1",
@@ -67,10 +67,10 @@
   },
   
   {
-    "id":"inmueble3",
+    "id":"3",
     "tipo": "Alquiler",
     "inmueble":"Local",
-    "precio":"220.000",
+    "precio":"1000€/m",
     "localidad":"Castello de la Plana",
     "provincia":"Castello",
     "direccion":"Carrer Major n222",
