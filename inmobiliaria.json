@@ -5,7 +5,7 @@
     "inmueble":"Piso",
     "precio":"120.000",
     "localidad":"Gandia",
-    "provincia":"Valencia";
+    "provincia":"Valencia",
     "direccion":"Carrer Major n2",
     "m2":"100",
     "descripcion":"Pis acabat de reformar en el centre de Gandia."
@@ -16,7 +16,7 @@
     "inmueble":"Casa",
     "precio":"150.000",
     "localidad":"Sant Vicen de Raspeig",
-    "provincia":"Alacant";
+    "provincia":"Alacant",
     "direccion":"Urbanizacio Menor n1",
     "m2":"120",
     "descripcion":"Casa acabada de construir en la urbanizacio Menor"
@@ -27,7 +27,7 @@
     "inmueble":"Local",
     "precio":"220.000",
     "Localidad":"Castello de la Plana",
-    "provincia":"Castello";
+    "provincia":"Castello",
     "direccion":"Carrer Major n222",
     "m2":"80",
     "descripcion":"Local ideal per a un bar, pub o un restaurant xicotet"
@@ -38,7 +38,7 @@
     "inmueble":"Piso",
     "precio":"120.000",
     "localidad":"Gandia",
-    "provincia":"Valencia";
+    "provincia":"Valencia",
     "direccion":"Carrer Major n2",
     "m2":"100",
     "descripcion":"Pis acabat de reformar en el centre de Gandia."
@@ -49,7 +49,7 @@
     "inmueble":"Casa",
     "precio":"150.000",
     "localidad":"Sant Vicen de Raspeig",
-    "provincia":"Alacant";
+    "provincia":"Alacant",
     "direccion":"Urbanizacio Menor n1",
     "m2":"120",
     "descripcion":"Casa acabada de construir en la urbanizacio Menor"
@@ -60,7 +60,7 @@
     "inmueble":"Local",
     "precio":"220.000",
     "localidad":"Castello de la Plana",
-    "provincia":"Castello";
+    "provincia":"Castello",
     "direccion":"Carrer Major n222",
     "m2":"80",
     "descripcion":"Local ideal per a un bar, pub o un restaurant xicotet"
