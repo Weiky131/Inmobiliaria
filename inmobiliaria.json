@@ -11,9 +11,9 @@
   },
   
   {
-    "tipus": "Venta",
+    "tipo": "Venta",
     "inmueble":"Casa",
-    "recio":"150.000",
+    "precio":"150.000",
     "localidad":"Gandia",
     "direccion":"Urbanizacio Menor n1",
     "m2":"120",
@@ -21,7 +21,7 @@
   },
   
   {
-    "tipus": "Venta",
+    "tipo": "Venta",
     "inmueble":"Local",
     "precio":"220.000",
     "localidad":"Gandia",
