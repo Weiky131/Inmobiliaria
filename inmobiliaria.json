@@ -1,6 +1,7 @@
 [
   
   {
+    "id":"inmueble1",
     "tipo": "Venta",
     "inmueble":"Piso",
     "precio":"120.000",
@@ -14,6 +15,7 @@
   },
   
   {
+    "id":"inmueble2",
     "tipo": "Venta",
     "inmueble":"Casa",
     "precio":"150.000",
@@ -26,6 +28,7 @@
   },
   
   {
+    "id":"inmueble3",
     "tipo": "Venta",
     "inmueble":"Local",
     "precio":"220.000",
@@ -38,6 +41,7 @@
   },
   
   {
+    "id":"inmueble1",
     "tipo": "Alquiler",
     "inmueble":"Piso",
     "precio":"120.000",
@@ -50,6 +54,7 @@
   },
   
   {
+    "id":"inmueble2,
     "tipo": "Alquiler",
     "inmueble":"Casa",
     "precio":"150.000",
@@ -62,6 +67,7 @@
   },
   
   {
+    "id":"inmueble3",
     "tipo": "Alquiler",
     "inmueble":"Local",
     "precio":"220.000",
