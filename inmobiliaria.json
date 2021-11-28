@@ -1,4 +1,5 @@
-{
+[
+  
   {
     "tipus": "Venta",
     "inmoble":"Piso",
@@ -20,7 +21,7 @@
   },
   
   {
-    "tipus": "venta",
+    "tipus": "Venta",
     "inmoble":"Local",
     "preu":"220.000",
     "localitat":"Gandia",
@@ -29,4 +30,4 @@
     "descripcio":"Local ideal per a un bar, pub o un restaurant xicotet"
   }
 
-}
+]
