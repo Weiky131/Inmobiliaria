@@ -54,7 +54,7 @@
   },
   
   {
-    "id":"inmueble2,
+    "id":"inmueble2",
     "tipo": "Alquiler",
     "inmueble":"Casa",
     "precio":"150.000",
