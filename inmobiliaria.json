@@ -1,33 +1,33 @@
 [
   
   {
-    "tipus": "Venta",
-    "inmoble":"Piso",
-    "preu":"120.000",
-    "localitat":"Gandia",
-    "direccio":"Carrer Major n2",
+    "tipo": "Venta",
+    "inmueble":"Piso",
+    "precio":"120.000",
+    "localidad":"Gandia",
+    "direccion":"Carrer Major n2",
     "m2":"100",
-    "descripcio":"Pis acabat de reformar en el centre de Gandia."
+    "descripcion":"Pis acabat de reformar en el centre de Gandia."
   },
   
   {
     "tipus": "Venta",
-    "inmoble":"Casa",
-    "preu":"150.000",
-    "localitat":"Gandia",
-    "direccio":"Urbanizacio Menor n1",
+    "inmueble":"Casa",
+    "recio":"150.000",
+    "localidad":"Gandia",
+    "direccion":"Urbanizacio Menor n1",
     "m2":"120",
-    "descripcio":"Casa acabada de construir en la urbanizacio Menor"
+    "descripcion":"Casa acabada de construir en la urbanizacio Menor"
   },
   
   {
     "tipus": "Venta",
-    "inmoble":"Local",
-    "preu":"220.000",
-    "localitat":"Gandia",
-    "direccio":"Carrer Major n222",
+    "inmueble":"Local",
+    "precio":"220.000",
+    "localidad":"Gandia",
+    "direccion":"Carrer Major n222",
     "m2":"80",
-    "descripcio":"Local ideal per a un bar, pub o un restaurant xicotet"
+    "descripcion":"Local ideal per a un bar, pub o un restaurant xicotet"
   }
 
 ]
