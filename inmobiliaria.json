@@ -15,7 +15,7 @@
     "preu":"150.000",
     "localitat":"Gandia",
     "direccio":"Urbanizacio Menor n1",
-    "m2":"120"
+    "m2":"120",
     "descripcio":"Casa acabada de construir en la urbanizacio Menor"
   },
   
@@ -25,7 +25,7 @@
     "preu":"220.000",
     "localitat":"Gandia",
     "direccio":"Carrer Major n222",
-    "m2":"80"
+    "m2":"80",
     "descripcio":"Local ideal per a un bar, pub o un restaurant xicotet"
   }
 ]
